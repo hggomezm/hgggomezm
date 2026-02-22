@@ -1,7 +1,6 @@
-# hgggomezm
-##Hello everyone 👋
+# Hello everyone 👋
 
-##About me:
+## About me:
 🔭 I’m currently working on strengthening my profile to face new professional challenges in a new industry.
 🌱 I’m currently learning and practicing SQL and Python.
 ❤️ I love finding out the hiden clues numbers have in order to get from them the necessary insights to take a powerful decision. 
@@ -23,4 +22,5 @@
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge" alt="excel"/>
   </a>
+    
   ![Power Bi](https://img.shields.io/badge/PowerBi-357ebd?style=for-the-badge)
