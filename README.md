@@ -13,8 +13,7 @@
 - ⚡ Fun fact: Sports lover.
 - 📫 How to reach me: hggomezm@gmail.com
 
-##Technical skills:
-
+### Technical skills:
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="python"/>
   </a>
@@ -25,5 +24,3 @@
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge" alt="excel"/>
   </a>
   ![Power Bi](https://img.shields.io/badge/PowerBi-357ebd?style=for-the-badge)
-  
-</div>
