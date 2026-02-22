@@ -14,5 +14,16 @@
 - 📫 How to reach me: hggomezm@gmail.com
 
 ##Technical skills:
-python rstudio sql tableau excel
-- python - sql - tableau - excel
+
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge" alt="sql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Tableau-28457D8?style=for-the-badge" alt="tableau"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge" alt="excel"/>
+  </a>
+  ![Power Bi](https://img.shields.io/badge/PowerBi-357ebd?style=for-the-badge)
+  
+</div>
